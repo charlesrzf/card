@@ -4,7 +4,7 @@ function openLink(nlink) {
             window.open("https://www.linkedin.com/in/charlesrf/");
             break;
         case 'whatsapp':
-            window.open("https://wa.me/5531991924329");
+            window.open("https://wa.me/5531991824329");
             break
         case 'instagram':
             window.open("https://www.instagram.com/charlesrf/");
