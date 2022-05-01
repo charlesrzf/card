@@ -1,15 +1,15 @@
 @media screen {
     body {
-        background-color: black;
-    }
-    .card {
-        width: 100%;
-        height: 100vh;
-        background-color: black;
         background-image: url(bkgnrd.png);
         background-position: center; 
         background-repeat: no-repeat;
         background-size: cover;
+        background-attachment: fixed;
+    }
+    .card {
+        width: 100%;
+        height: 100vh;
+
         
     }
     .topo {
