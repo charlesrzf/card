@@ -18,6 +18,8 @@ function openLink(nlink) {
         case 'telefone':
             location.href="tel:+5531991824329";
             break
+        case 'endereco':
+            window.open("https://goo.gl/maps/gfypdq7pMnaLWrSw7");
     }
 
 
