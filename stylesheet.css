@@ -117,5 +117,11 @@
         color: white;
         margin: 0px;
     }
+    .flag {
+        position: absolute;
+        right: 100px;
+        top: 108px;
+        height: 16%;
+    }
 
 }
