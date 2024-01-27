@@ -7,7 +7,7 @@ function openLink(nlink) {
             window.open("https://wa.me/5531991824329");
             break
         case 'instagram':
-            window.open("https://www.instagram.com/charlesrf/");
+            window.open("https://www.instagram.com/ge21geotecnologias/");
             break
         case 'site':
             window.open("https://ge21gt.com.br");
