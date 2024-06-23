@@ -6,6 +6,9 @@ function openLink(nlink) {
         case 'whatsapp':
             window.open("https://wa.me/5531991824329");
             break
+        case 'instagramp':
+            window.open("https://www.instagram.com/charlesrf_ge21/");
+            break
         case 'instagram':
             window.open("https://www.instagram.com/ge21geotecnologias/");
             break
